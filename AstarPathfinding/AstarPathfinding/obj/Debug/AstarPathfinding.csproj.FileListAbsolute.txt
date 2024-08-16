@@ -1,0 +1,23 @@
+C:\Users\laptop\source\repos\AstarPathfinding\AstarPathfinding\bin\Debug\AstarPathfinding.dll
+C:\Users\laptop\source\repos\AstarPathfinding\AstarPathfinding\bin\Debug\AstarPathfinding.pdb
+C:\Users\laptop\source\repos\AstarPathfinding\AstarPathfinding\bin\Debug\UnityEngine.dll
+C:\Users\laptop\source\repos\AstarPathfinding\AstarPathfinding\bin\Debug\UnityEngine.xml
+C:\Users\laptop\source\repos\AstarPathfinding\AstarPathfinding\obj\Debug\AstarPathfinding.csproj.AssemblyReference.cache
+C:\Users\laptop\source\repos\AstarPathfinding\AstarPathfinding\obj\Debug\AstarPathfinding.csproj.CoreCompileInputs.cache
+C:\Users\laptop\source\repos\AstarPathfinding\AstarPathfinding\obj\Debug\AstarPathfinding.csproj.CopyComplete
+C:\Users\laptop\source\repos\AstarPathfinding\AstarPathfinding\obj\Debug\AstarPathfinding.dll
+C:\Users\laptop\source\repos\AstarPathfinding\AstarPathfinding\obj\Debug\AstarPathfinding.pdb
+D:\Soham SAE\Studio 3\AstarAPI\AstarPathfinding\AstarPathfinding\bin\Debug\AstarPathfinding.dll
+D:\Soham SAE\Studio 3\AstarAPI\AstarPathfinding\AstarPathfinding\bin\Debug\AstarPathfinding.pdb
+D:\Soham SAE\Studio 3\AstarAPI\AstarPathfinding\AstarPathfinding\obj\Debug\AstarPathfinding.csproj.AssemblyReference.cache
+D:\Soham SAE\Studio 3\AstarAPI\AstarPathfinding\AstarPathfinding\obj\Debug\AstarPathfinding.csproj.CoreCompileInputs.cache
+D:\Soham SAE\Studio 3\AstarAPI\AstarPathfinding\AstarPathfinding\obj\Debug\AstarPathfinding.csproj.CopyComplete
+D:\Soham SAE\Studio 3\AstarAPI\AstarPathfinding\AstarPathfinding\obj\Debug\AstarPathfinding.dll
+D:\Soham SAE\Studio 3\AstarAPI\AstarPathfinding\AstarPathfinding\obj\Debug\AstarPathfinding.pdb
+D:\Soham SAE\Studio 3\AstarAPI repo\AstarAPI\AstarPathfinding\AstarPathfinding\bin\Debug\AstarPathfinding.dll
+D:\Soham SAE\Studio 3\AstarAPI repo\AstarAPI\AstarPathfinding\AstarPathfinding\bin\Debug\AstarPathfinding.pdb
+D:\Soham SAE\Studio 3\AstarAPI repo\AstarAPI\AstarPathfinding\AstarPathfinding\obj\Debug\AstarPathfinding.csproj.AssemblyReference.cache
+D:\Soham SAE\Studio 3\AstarAPI repo\AstarAPI\AstarPathfinding\AstarPathfinding\obj\Debug\AstarPathfinding.csproj.CoreCompileInputs.cache
+D:\Soham SAE\Studio 3\AstarAPI repo\AstarAPI\AstarPathfinding\AstarPathfinding\obj\Debug\AstarPathfinding.csproj.CopyComplete
+D:\Soham SAE\Studio 3\AstarAPI repo\AstarAPI\AstarPathfinding\AstarPathfinding\obj\Debug\AstarPathfinding.dll
+D:\Soham SAE\Studio 3\AstarAPI repo\AstarAPI\AstarPathfinding\AstarPathfinding\obj\Debug\AstarPathfinding.pdb
