@@ -164,7 +164,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 203240535}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -1806071634, guid: cb20862c5932ebb4191e7ac5ba846e6f, type: 3}
+  m_Script: {fileID: -1806071634, guid: 94fb4606a50cc964e915f67737e67de1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   carsPrefab:
@@ -173,7 +173,7 @@ MonoBehaviour:
   spawnInterval: 5
   points: []
   start: {x: 0, y: 0, z: 0}
-  end: {x: 25, y: 0, z: 25}
+  end: {x: 23, y: 0, z: 35}
   numberOfCars: 1
   maxnumberOfCars: 0
   currentNoOfCars: 0
@@ -580,7 +580,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1563871350}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -291330588, guid: cb20862c5932ebb4191e7ac5ba846e6f, type: 3}
+  m_Script: {fileID: -291330588, guid: 94fb4606a50cc964e915f67737e67de1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   nodePrefab: {fileID: 27697318014949078, guid: a568100284d7b2d40a6256c1c775237d, type: 3}
@@ -631,7 +631,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1575432219}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 975842890, guid: cb20862c5932ebb4191e7ac5ba846e6f, type: 3}
+  m_Script: {fileID: 975842890, guid: 94fb4606a50cc964e915f67737e67de1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   startNodeGridPos: {x: 0, y: 0, z: 0}

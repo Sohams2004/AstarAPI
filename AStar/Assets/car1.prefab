@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5057977958358998951}
   - component: {fileID: 4910241646832928286}
   - component: {fileID: 7661932023757709086}
-  - component: {fileID: 3473985832245025509}
+  - component: {fileID: 3233742029190677201}
   m_Layer: 0
   m_Name: car1
   m_TagString: Untagged
@@ -106,7 +106,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &3473985832245025509
+--- !u!114 &3233742029190677201
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -115,7 +115,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 3650690849944574965}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 130077791, guid: cb20862c5932ebb4191e7ac5ba846e6f, type: 3}
+  m_Script: {fileID: 130077791, guid: 94fb4606a50cc964e915f67737e67de1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   carSpeed: 10
